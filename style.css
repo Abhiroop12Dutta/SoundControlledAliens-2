@@ -1,0 +1,23 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to left,rgb(42, 42, 201), rgb(89, 89, 191), rgb(88, 167, 233));
+    color: white;
+}
+
+#start
+ {
+    background-color: black;
+    font-family: 'Josefin Sans', sans-serif;
+ }
+
+.copy_right_footer {
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align : center;
+    
+}
